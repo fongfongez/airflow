@@ -22,3 +22,5 @@ sudo du -ah / | sort -rh | head -n 20
 
 echo "✅ 清理完成！目前磁碟狀況："
 df -h /
+
+#每日清理
